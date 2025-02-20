@@ -1,4 +1,5 @@
-title: "Radhwen Saidi - Data Scientist"
-description: "Mon portfolio de Data Science et Machine Learning"
-theme: jekyll-theme-midnight
-show_downloads: true
+remote_theme: alshedivat/al-folio
+
+title: "Portfolio de Radhwen Saidi"
+description: "Découvrez mes projets en Data Science et IA"
+show_downloads: false
