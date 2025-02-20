@@ -1,5 +1,4 @@
-remote_theme: alshedivat/al-folio
-
+theme: jekyll-theme-slate
 title: "Portfolio de Radhwen Saidi"
-description: "Découvrez mes projets en Data Science et IA"
+description: "Data Scientist - Machine Learning Engineer"
 show_downloads: false
