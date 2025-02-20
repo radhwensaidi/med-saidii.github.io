@@ -1,5 +1,5 @@
-title: Radhwen Saidi - Data Scientist & ML Engineer
-description: Portfolio professionnel de Radhwen Saidi, Data Scientist et Machine Learning Engineer
+# _config.yml
+title: Radhwen Saidi - Data Scientist & ML Engineer 
+description: Portfolio professionnel de Radhwen Saidi, expert en Data Science et Machine Learning
 theme: jekyll-theme-minimal
-logo: /assets/img/profile.png
-show_downloads: false
+logo: /assets/img/profile.jpg
