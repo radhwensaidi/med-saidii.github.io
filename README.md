@@ -1,80 +1,77 @@
-# Radhwen Saidi
+# Radhwen Saidi - Data Scientist | Machine Learning Engineer 👨‍💻
 
-<div align="center">
-   <h2>Data Scientist | Machine Learning Engineer</h2>
-   <p>
-      <a href="mailto:radhwen.saidi@outlook.com"><i class="fas fa-envelope"></i> radhwen.saidi@outlook.com</a> |
-      <a href="tel:+33783906117"><i class="fas fa-phone"></i> 07 83 90 61 17</a> |
-      <i class="fas fa-car"></i> Permis B
-   </p>
-</div>
+Bienvenue sur mon portfolio professionnel. Je suis **Radhwen Saidi**, un **Data Scientist** et **Machine Learning Engineer** passionné, avec une expertise approfondie en **ML, IA, Data Science, et MLOps**. Mon objectif est de concevoir et de déployer des solutions innovantes pour transformer les données en valeur ajoutée.
 
-## <i class="fas fa-brain"></i> Profil
+## 📄 À propos de moi
+- 🎓 **Formation** :
+  - Mastère Spécialisé en Sciences des Données - INSA Rouen Normandie, France (2022-2023)
+  - Diplôme d’Ingénieur en Informatique - ENSIM, Le Mans, France (2020-2022)
+  - Diplôme d’Ingénieur en Informatique - ESPRIT, Tunisie (2018-2020)
+- 🌟 **Langues** : Français (courant), Anglais (professionnel, TOEIC 865), Allemand (A2.2)
+- 📬 **Contact** : [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)
 
-Expert en Data Science et Machine Learning avec une solide formation en ingénierie informatique. Spécialisé dans le développement de solutions d'IA innovantes pour le secteur bancaire et financier. Fort d'une expertise en MLOps et en déploiement de modèles à grande échelle.
+---
 
-## <i class="fas fa-graduation-cap"></i> Formation
+## 💼 Expériences Professionnelles
 
-- **Mastère Spécialisé Expert En Sciences Des Données** | 2022-2023
-  - INSA Rouen Normandie, France
-  
-- **Diplôme d'ingénieur en Informatique** | 2020-2022
-  - École Nationale Supérieure d'Ingénieurs du Mans, France
-  - Double diplôme dans un cadre de convention de mobilité internationale
+### **Data Scientist - ONEY Banque (France)** *(Octobre 2023 - Présent)*
+- **Modélisation IA Stratégique** : Développement de solutions ML pour des cas métier tels que détection de fraude, recouvrement, segmentation client et scoring crédit.
+- **Applications Analytiques** : Automatisation des analyses et mise en place de plans d'action proactifs.
+- **Amélioration Continue** : Optimisation des modèles pour amélioration de la robustesse et des performances.
+- **Expertise ML** : Mise en œuvre de guides méthodologiques et veille technologique.
+- **Tech Stack** : Python, R, SQL, Databricks, PySpark, Snowflake, MLflow.
 
-- **Diplôme d'ingénieur en Informatique** | 2018-2020
-  - Ecole Supérieure d'Ingénierie et de Technologie (ESPRIT), Tunisie
+---
 
-## <i class="fas fa-briefcase"></i> Expérience Professionnelle
+### **Data Scientist - Crédit Agricole Consumer Finance (France)** *(Octobre 2022 - Septembre 2023)*
+- **Projet NLP - Catégorisation de Transactions Bancaires** :
+  - Développement d'un système basé sur BERT pour classifier les transactions bancaires.
+  - Prétraitement avancé des données avec Regex et fine-tuning sur corpus bancaire.
+- **Projet Open Banking - Scoring de Crédit** :
+  - Modélisation basée sur XGBoost avec traçabilité via MLflow et interprétabilité via SHAP.
+- **Tech Stack** : Python, Snorkel, Hugging Face, Transformers, TensorFlow, MLflow, SQL.
 
-### <i class="fas fa-building"></i> Data Scientist | ONEY BANQUE
-*Lille, France | Depuis octobre 2023*
+---
 
-- Développement de solutions ML pour la détection de fraude, recouvrement, segmentation client et scoring crédit
-- Conception d'outils automatisés pour l'analyse des données et le monitoring des modèles
-- Mise en place de pratiques MLOps et guides méthodologiques
-- **Technologies**: Python, R, SQL, Databricks, MLflow, PySpark, Snowflake
+### **Stage Data Scientist - E-nno Switzerland SA (Genève, Suisse)** *(Mars 2022 - Septembre 2022)*
+- Détection d’anomalies énergétiques avec modèles ML et ingestion cloud sur AWS.
+- Déploiement automatisé avec Docker, GitLab CI/CD, et orchestration via Kubernetes.
+- Surveillance proactive avec Grafana et Airflow.
+- **Tech Stack** : Docker, AWS, CI/CD, PostgreSQL, Poetry, Typer, Grafana.
 
-### <i class="fas fa-building"></i> Data Scientist | Crédit Agricole Consumer Finance
-*Lille, France | Octobre 2022 - Septembre 2023*
+---
 
-#### Projet NLP - Catégorisation de transactions bancaires
-- Développement d'un système d'annotation intelligent
-- Implémentation d'un pipeline de prétraitement avancé
-- Modélisation deep learning avec BERT
-- **Technologies**: Python, Regex, Snorkel, Hugging Face, Transformers BERT, TensorFlow
+### **Stage Data Scientist - Teamwill Consulting (Paris, France)** *(Juillet 2021 - Septembre 2021)*
+- Plateforme IA prédictive pour le succès de projets de crowdfunding.
+- Analyse sentimentale NLP et développement d’un chatbot intelligent basé sur Keras.
+- Déploiement sur AWS avec Flask.
+- **Tech Stack** : Python, Scikit-learn, Flask, AWS, NLP, Keras.
 
-#### Projet Open Banking – Système de scoring de crédit
-- Intégration de données externes et développement d'indicateurs
-- Modélisation avec XGBoost et explainabilité SHAP
-- **Technologies**: Python, MLflow, SQL, APIs, SHAP
+---
 
-## <i class="fas fa-tools"></i> Compétences Techniques
+## ⚙️ Compétences Techniques
 
-### <i class="fas fa-code"></i> Langages et Frameworks
-- Python, R, Flask, JAVA, C/C#
-- SQL, PostgreSQL, NoSQL
+| Domaines                  | Technologies principales                                                                 |
+|---------------------------|------------------------------------------------------------------------------------------|
+| **Langages de Programmation** | Python, R, Java, C/C#                                                                   |
+| **Machine Learning**       | Scikit-learn, TensorFlow, PyTorch, Hugging Face, XGBoost, SVM, Random Forest              |
+| **Big Data**               | PySpark, Hadoop, Snowflake, SQL/PostgreSQL, NoSQL                                         |
+| **MLOps**                  | Docker, MLflow, CI/CD, Airflow, Grafana                                                   |
+| **Cloud**                  | AWS, Kubernetes                                                                          |
+| **Visualisation**          | Matplotlib, Seaborn, Tableau, Power BI                                                   |
 
-### <i class="fas fa-robot"></i> Machine Learning & Deep Learning
-- Scikit-learn, TensorFlow, PyTorch, XGBoost
-- NLP, Computer Vision, Transformers
-- LLMs, RAG Pipelines, LangChain
+---
 
-### <i class="fas fa-cloud"></i> MLOps & Cloud
-- GitHub/GitLab, MLflow, Docker
-- AWS, Airflow, Kubernetes
-- CI/CD, Grafana, FastAPI
+## 📚 Certifications
+- **Machine Learning Scientist** - DataCamp
+- **Deep Learning Specialization** - Coursera
+- **TOEIC 865** - Anglais Professionnel
 
-## <i class="fas fa-language"></i> Langues
-- Français: Courant
-- Anglais: Professionnel (TOEIC: 865)
-- Allemand: A2.2
+---
 
-## <i class="fas fa-certificate"></i> Certifications
-- Machine Learning Scientist (DataCamp)
-- Deep Learning Specialization (Coursera)
+## 📞 Contactez-moi
+- **Email** : [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)
+- **Téléphone** : +33 7 83 90 61 17
+- **LinkedIn** : [Mon profil LinkedIn](https://www.linkedin.com/in/radhwen-saidi/)
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/votre-profil" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a> |
-   <a href="https://github.com/votre-profil" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-</div>
+Merci de visiter mon portfolio ! 😊
