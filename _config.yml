@@ -1,7 +1,6 @@
 title: "Radhwen Saidi - Portfolio"
-description: >-
-  Portfolio professionnel de Radhwen Saidi, Data Scientist et Machine Learning Engineer.
-theme: jekyll-theme-cayman
-permalink: /index.html
+description: "Portfolio professionnel de Radhwen Saidi, Data Scientist et Machine Learning Engineer."
+theme: jekyll-theme-slate
 author: Radhwen Saidi
 show_downloads: false
+permalink: /index.html
