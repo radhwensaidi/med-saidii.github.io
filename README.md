@@ -1,156 +1,85 @@
----
-layout: default
-title: "Radhwen Saidi - Data Scientist & Machine Learning Engineer"
-description: "CV & Portfolio de Radhwen Saidi en Data Science, Machine Learning et IA"
----
+# Portfolio de Radhwen Saidi
 
-# Bienvenue sur mon Portfolio
+## Data Scientist | Machine Learning Engineer
 
-Bonjour, je suis **Radhwen Saidi**, Data Scientist et Machine Learning Engineer. Ce site présente mon parcours professionnel, mes compétences, mes projets et des démonstrations interactives. Vous y découvrirez mon CV complet ainsi que mes réalisations en Data Science, IA et Machine Learning.
+📧 [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com) | 📞 0783906117
 
 ---
 
-## Profil
+### À propos de moi
 
-- **Nom :** Radhwen Saidi  
-- **Email :** [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)  
-- **Téléphone :** 07 83 90 61 17  
-- **LinkedIn :** [linkedin.com/in/radhwen-saidi](https://www.linkedin.com/in/radhwen-saidi)  
-- **GitHub :** [github.com/radhwen-saidi](https://github.com/radhwen-saidi)
+Passionné par la science des données et l'intelligence artificielle, je suis un Data Scientist avec une expertise en apprentissage automatique, traitement du langage naturel et optimisation des modèles. J'ai travaillé sur divers projets dans des environnements dynamiques, développant des solutions innovantes pour résoudre des problèmes complexes.
 
----
+### Formation
 
-## Compétences Techniques
+- **Mastère Spécialisé Expert En Sciences Des Données**  
+  INSA Rouen Normandie, France (2022 - 2023)
 
-### Systèmes d’exploitation
-- Windows  
-- Linux (Ubuntu, CentOS)
+- **Diplôme d'ingénieur, Informatique**  
+  École Nationale Supérieure d'Ingénieurs du Mans, France (2020 - 2022)
 
-### Langages & Frameworks
-- **Langages :** Python, R, Java, C/C#  
-- **Frameworks :** Flask
+- **Diplôme d'ingénieur, Informatique**  
+  Ecole Supérieure d’Ingénierie et de Technologie (ESPRIT), Tunisie (2018 - 2020)
 
-### Machine Learning
-- Apprentissage supervisé et non supervisé  
-- Algorithmes : KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression linéaire, Logistic Regression, PCA, K-Means, XGBoost
+### Expérience Professionnelle
 
-### Deep Learning & Traitement du Langage Naturel (NLP)
-- Outils : TensorFlow, Keras, PyTorch  
-- Architectures : ANN, RNN, CNN  
-- NLP : NLTK, Transformers
+#### Data Scientist, ONEY BANQUE, Lille, France (Depuis octobre 2023)
+- **Modélisation IA stratégique** : Développement de solutions ML adaptées à divers cas métier (détection de fraude, recouvrement, segmentation client, scoring crédit).
+- **Développement d'Applications Analytiques** : Conception d’outils pour l’analyse des données, génération de rapports, monitoring des modèles.
+- **Amélioration continue** : Optimisation des modèles existants.
+- **Expertise ML référent** : Mise en œuvre de bonnes pratiques et guides méthodologiques.
 
-### IA Générative
-- Modèles de langage (LLMs)  
-- Pipelines RAG, Vector Embeddings, Semantic Search  
-- Outils : FAISS, ChromaDB, LangChain, Langraph  
-- Techniques : Prompt Engineering, Fine-tuning (LoRA, PEFT, Quantification)
+**Mots clés** : Python, R, SQL, Machine Learning, Databricks, MLflow, PySpark, Snowflake
 
-### Big Data & Bases de Données
-- Technologies : Hadoop, PySpark, Cloud Computing, AWS  
-- SGBD : SQL (PostgreSQL), NoSQL
+#### Data Scientist, Crédit Agricole Consumer Finance, Lille, France (Oct. 2022 - Sept. 2023)
+- **Projet NLP** : Développement d'un système intelligent d'annotation pour catégoriser des transactions bancaires.
+- **Modélisation deep learning** : Optimisation d'un modèle de classification basé sur BERT.
 
-### MLOps & Déploiement
-- Outils : GitHub/GitLab, MLflow, CI/CD, Docker, Grafana, Airflow, CLI, FastAPI, Streamlit
+**Mots clés** : Python, Regex, Snorkel, Hugging Face, TensorFlow
 
-### Compétences Transversales
-- Analyse de données, mathématiques, statistiques, probabilités, méthodes stochastiques, séries temporelles, visualisation et optimisation
+#### Stage de fin d'études - Data Scientist/Machine Learning Engineer, E-nno Switzerland SA, Genève, Suisse (Mars 2022 - Sept. 2022)
+- **Détection d’anomalies énergétiques** : Conception d'un modèle pour identifier les dysfonctionnements techniques.
+- **Pipeline ETL** : Gestion des données issues des capteurs sur AWS.
+- **Automatisation et déploiement** : Déploiement automatisé avec Docker, CI/CD.
+
+**Mots clés** : PostgreSQL, InfluxDB, Poetry, Airflow, MLflow, Docker, AWS
+
+#### Stage Data Science, Teamwill Consulting, Paris, France (Juillet 2021 - Septembre 2021)
+- **Développement d'une plateforme IA de CrowdFunding** : Conception d’un modèle prédictif.
+- **Chatbot intelligent** : Développement d'un chatbot conversationnel.
+
+**Mots clés** : Python, Scikit-Learn, Flask, WebScraping, SQL, AWS, NLP, Keras
+
+### Compétences Techniques
+
+- **Langages et Frameworks** : Python, R, Flask, JAVA, C/C#
+- **Machine Learning** : KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression, PCA, K-Means, XGBoost
+- **Deep Learning** : TensorFlow, Keras, PyTorch, NLP, NLTK, Computer Vision, OpenCV, Transformers
+- **IA Générative** : LLMs, RAG, Vector Embeddings, FAISS, LangChain
+- **Big Data et SGBD** : Hadoop, PySpark, AWS, SQL/PostgreSQL/NoSQL
+- **MLOps** : GitHub/GitLab, MLflow, Docker, Grafana, Airflow
 
 ### Langues
-- **Français :** Courant  
-- **Anglais :** Professionnel (TOEIC : 865)  
-- **Allemand :** A2.2
+
+- Français Courant
+- Anglais Professionnel (TOEIC : 865)
+- Allemand A2.2
+
+### Certificats
+
+- Machine Learning Scientist - DataCamp
+- Deep Learning Specialization - Coursera
 
 ---
 
-## Certifications
+### Projets
 
-- **Machine Learning Scientist** – DataCamp  
-- **Deep Learning Specialization** – Coursera
-
----
-
-## Formation
-
-- **Mastère Spécialisé Expert en Sciences des Données**  
-  INSA Rouen Normandie, France – *2022 à 2023*
-
-- **Diplôme d'ingénieur, Informatique**  
-  École Nationale Supérieure d'Ingénieurs du Mans, France – *2020 à 2022*  
-  *(Double diplôme dans le cadre d'une mobilité internationale)*
-
-- **Diplôme d'ingénieur, Informatique**  
-  École Supérieure d’Ingénierie et de Technologie (ESPRIT), Tunisie – *2018 à 2020*
+- [Projet 1 - Nom du projet](./projects/projet1.md)
+- [Projet 2 - Nom du projet](./projects/projet2.md)
+- [Projet 3 - Nom du projet](./projects/projet3.md)
 
 ---
 
-## Expérience Professionnelle
+### Contact
 
-### Data Scientist – ONEY BANQUE, Lille, France  
-*Depuis Octobre 2023*  
-- **Modélisation IA stratégique :** Développement de solutions ML pour la détection de fraude, le recouvrement, la segmentation client et le scoring crédit, intégrant les dernières avancées technologiques.  
-- **Applications analytiques :** Conception d’outils automatisés pour l’analyse des données, génération de rapports détaillés, monitoring des modèles et mise en place d’alertes proactives.  
-- **Optimisation continue :** Amélioration des modèles existants pour renforcer leur robustesse, performance et adaptabilité.  
-- **Expertise méthodologique :** Mise en œuvre de bonnes pratiques pour l'alignement des filiales internationales.
-
----
-
-### Data Scientist – Crédit Agricole Consumer Finance, Lille, France  
-*Octobre 2022 – Septembre 2023*  
-
-**Projet NLP – Catégorisation de Transactions Bancaires :**  
-- Conception d’un système d’annotation intelligent basé sur des scores majoritaires, des règles métier et une gestion de priorités.  
-- Développement d’un pipeline de prétraitement (nettoyage, standardisation, corrections orthographiques et gestion d’incohérences via Regex).  
-- Mise en place d’un modèle de classification basé sur BERT avec fine-tuning sur corpus spécifique.
-
-**Projet Open Banking – Système de Scoring de Crédit :**  
-- Intégration de données externes (APIs Open Banking) et internes avec optimisation via variables croisées.  
-- Réalisation d’analyses statistiques et création de visualisations stratégiques.  
-- Développement d’un modèle de scoring basé sur XGBoost, suivi via MLflow et explicabilité avec SHAP.
-
----
-
-### Stage de Fin d'Études – Data Scientist / Machine Learning Engineer  
-**E-nno Switzerland SA, Genève, Suisse**  
-*Mars 2022 – Septembre 2022*  
-- **Détection d’anomalies énergétiques :** Conception et développement d’un modèle innovant pour identifier des dysfonctionnements techniques dans la consommation d’énergie.  
-- **Pipeline ETL & Ingestion Cloud :** Extraction, transformation et chargement des données issues de capteurs avec intégration sur AWS.  
-- **Automatisation et Déploiement :** Packaging en solution Python, déploiement automatisé via Docker, GitLab CI/CD, orchestration avec Airflow et Kubernetes, et mise en place de dashboards (Grafana).
-
----
-
-### Stage Data Science  
-**Teamwill Consulting, Paris, France**  
-*Juillet 2021 – Septembre 2021*  
-- **Plateforme IA de CrowdFunding :**  
-  - Conception d’un modèle prédictif pour évaluer la réussite des projets, enrichi par une analyse sentimentale sur des tweets collectés via web scraping.  
-  - Développement d’un chatbot conversationnel basé sur des réseaux de neurones pour une interaction utilisateur dynamique.  
-  - Déploiement d'une application web Flask sur AWS.
-
----
-
-## Projets & Démonstrations
-
-Retrouvez l’ensemble de mes projets sur [GitHub](https://github.com/radhwen-saidi).  
-Quelques projets notables :
-- [Détection de Fraude avec Machine Learning](https://github.com/radhwen-saidi/fraud-detection-ml)
-- [Classification NLP des Transactions Bancaires](https://github.com/radhwen-saidi/nlp-transaction-classification)
-- [Système de Scoring de Crédit Open Banking](https://github.com/radhwen-saidi/credit-scoring-ml)
-- [Détection d’Anomalies Énergétiques](https://github.com/radhwen-saidi/energy-anomaly-detection)
-
-**Démonstrations Vidéo :**  
-Visionnez mes démonstrations interactives ci-dessous :  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>  
-*Remplacez `VIDEO_ID` par l’identifiant de votre vidéo.*
-
----
-
-## Contact
-
-Pour toute opportunité ou question, n’hésitez pas à me contacter :  
-- **Email :** [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)  
-- **LinkedIn :** [linkedin.com/in/radhwen-saidi](https://www.linkedin.com/in/radhwen-saidi)  
-- **GitHub :** [github.com/radhwen-saidi](https://github.com/radhwen-saidi)
-
----
-
-*Dernière mise à jour : [Insérez la date de mise à jour]*
+N'hésitez pas à me contacter pour toute collaboration ou opportunité. Je suis toujours ouvert aux discussions autour de la science des données et de l'IA.
