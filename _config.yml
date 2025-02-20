@@ -1,4 +1,4 @@
-# _config.yml
-theme: minimal
-title: Radhwen Saidi - Data Scientist | Machine Learning Engineer
-description: Portfolio professionnel de Radhwen Saidi, Data Scientist et Machine Learning Engineer
+name: Radhwen Saidi - Data Scientist Portfolio
+theme: jekyll-theme-minimal
+title: Radhwen Saidi - Data Scientist
+description: Portfolio showcasing my experience and projects in Data Science and Machine Learning.
