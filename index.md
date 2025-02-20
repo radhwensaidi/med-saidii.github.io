@@ -1,213 +1,155 @@
----
-layout: default
-title: "Portfolio de Radhwen Saidi"
-description: "CV & Portfolio en Data Science, Machine Learning et IA"
----
-
-<style>
-  /* Conteneur large et centrage */
-  .container {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 20px 40px;
-  }
-  /* Style de l'en-tête */
-  .header {
-    text-align: center;
-    margin: 60px 0;
-  }
-  .header img {
-    width: 180px;
-    border-radius: 50%;
-  }
-  .header h1 {
-    font-size: 2.8em;
-    margin-top: 20px;
-  }
-  .header p {
-    font-size: 1.2em;
-    color: #666;
-  }
-  /* Accordéon (sections cliquables) */
-  details.accordion {
-    margin-bottom: 30px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-    background-color: #fff;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  }
-  details.accordion summary {
-    padding: 15px 20px;
-    cursor: pointer;
-    font-size: 1.5em;
-    font-weight: bold;
-    background-color: #f4f4f4;
-    border-bottom: 1px solid #ddd;
-    list-style: none;
-  }
-  details.accordion[open] summary {
-    background-color: #e2e2e2;
-  }
-  details.accordion .content {
-    padding: 20px;
-    line-height: 1.6;
-  }
-  /* Liens et listes */
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-  ul li {
-    margin-bottom: 10px;
-  }
-  a {
-    color: #007acc;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  /* Responsive */
-  @media (max-width: 768px) {
-    .container { padding: 0 20px; }
-  }
-</style>
-
-<div class="container">
-
-  <!-- En-tête -->
-  <div class="header">
-    <!-- Remplacez /assets/img/logo.png par l'URL de votre logo ou photo -->
-    <img src="/assets/img/logo.png" alt="Logo Radhwen Saidi">
-    <h1>Radhwen Saidi</h1>
-    <p>Data Scientist | Machine Learning Engineer</p>
-    <p>
-      <a href="mailto:radhwen.saidi@outlook.com">radhwen.saidi@outlook.com</a> | 07 83 90 61 17
-    </p>
-    <p>
-      <a href="https://www.linkedin.com/in/radhwen-saidi" target="_blank">LinkedIn</a> | 
-      <a href="https://github.com/radhwen-saidi" target="_blank">GitHub</a>
-    </p>
-  </div>
-
-  <!-- Section "À propos" -->
-  <details class="accordion" open>
-    <summary>À propos</summary>
-    <div class="content">
-      <p>
-        Passionné par la Data Science, le Machine Learning et l’Intelligence Artificielle, j’ai acquis une expertise solide à travers des projets internationaux. Je conçois des solutions innovantes pour relever les défis métiers en analysant et optimisant les données.
-      </p>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio de Radhwen Saidi</title>
+  <!-- Intégration de Font Awesome pour les icônes -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pIVpOHZ8wZ0zrKeZ+G8v9QI/tZfj3Wkqvvh+1WzRA1Y+xYZGiD9v3Hdt4OPe9fnNcdIyq5tgZ7W8js6C7kC3UQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- CSS personnalisé -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Radhwen Saidi</h1>
+      <h2>Data Scientist | Machine Learning Engineer</h2>
+      <nav>
+        <ul>
+          <li><a href="#apropos"><i class="fas fa-user"></i> À propos</a></li>
+          <li><a href="#experience"><i class="fas fa-briefcase"></i> Expérience & Formation</a></li>
+          <li><a href="#competences"><i class="fas fa-laptop-code"></i> Compétences</a></li>
+          <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+        </ul>
+      </nav>
     </div>
-  </details>
+  </header>
 
-  <!-- Section "Compétences Techniques" -->
-  <details class="accordion">
-    <summary>Compétences Techniques</summary>
-    <div class="content">
-      <h3>Systèmes d’exploitation</h3>
-      <p>Windows, Linux (Ubuntu, CentOS)</p>
-      <h3>Langages & Frameworks</h3>
-      <p>Python, R, Java, C/C#, Flask</p>
-      <h3>Machine Learning</h3>
-      <p>KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression linéaire, Logistic Regression, PCA, K-Means, XGBoost</p>
-      <h3>Deep Learning & NLP</h3>
-      <p>TensorFlow, Keras, PyTorch, ANN, RNN, CNN, NLTK, Transformers</p>
-      <h3>IA Générative</h3>
-      <p>LLMs, RAG Pipelines, Vector Embeddings, Semantic Search, FAISS, ChromaDB, LangChain, Langraph, Prompt Engineering, Fine-tuning (LoRA, PEFT, Quantification)</p>
-      <h3>Big Data & Bases de Données</h3>
-      <p>Hadoop, PySpark, Cloud Computing, AWS, SQL/PostgreSQL, NoSQL</p>
-      <h3>MLOps & Déploiement</h3>
-      <p>GitHub/GitLab, MLflow, CI/CD, Docker, Grafana, Airflow, CLI, FastAPI, Streamlit</p>
-      <h3>Compétences Transversales</h3>
-      <p>Analyse de données, mathématiques, statistiques, probabilités, méthodes stochastiques, séries temporelles, visualisation, optimisation</p>
-      <h3>Langues</h3>
-      <p>Français (Courant), Anglais (Professionnel – TOEIC 865), Allemand (A2.2)</p>
-    </div>
-  </details>
-
-  <!-- Section "Formation & Certifications" -->
-  <details class="accordion">
-    <summary>Formation & Certifications</summary>
-    <div class="content">
-      <h3>Formation</h3>
-      <ul>
-        <li><strong>Mastère Spécialisé Expert en Sciences des Données</strong> – INSA Rouen Normandie, France (2022-2023)</li>
-        <li>
-          <strong>Diplôme d'ingénieur, Informatique</strong> – École Nationale Supérieure d'Ingénieurs du Mans, France (2020-2022)<br>
-          <em>(Double diplôme via mobilité internationale)</em>
-        </li>
-        <li><strong>Diplôme d'ingénieur, Informatique</strong> – École Supérieure d’Ingénierie et de Technologie (ESPRIT), Tunisie (2018-2020)</li>
-      </ul>
-      <h3>Certifications</h3>
-      <ul>
-        <li>Machine Learning Scientist – DataCamp</li>
-        <li>Deep Learning Specialization – Coursera</li>
-      </ul>
-    </div>
-  </details>
-
-  <!-- Section "Expérience Professionnelle" -->
-  <details class="accordion">
-    <summary>Expérience Professionnelle</summary>
-    <div class="content">
-      <h3>Data Scientist – ONEY BANQUE, Lille, France <small>(Depuis Octobre 2023)</small></h3>
-      <ul>
-        <li>Développement de solutions ML pour détection de fraude, recouvrement, segmentation client et scoring crédit.</li>
-        <li>Création d’outils analytiques : rapports automatisés, monitoring et alertes proactives.</li>
-        <li>Optimisation continue des modèles pour renforcer robustesse et performance.</li>
-        <li>Mise en place de bonnes pratiques pour aligner les filiales internationales.</li>
-      </ul>
-      <h3>Data Scientist – Crédit Agricole Consumer Finance, Lille, France <small>(Octobre 2022 – Septembre 2023)</small></h3>
-      <ul>
-        <li><strong>Projet NLP – Catégorisation de Transactions Bancaires :</strong> Système d’annotation intelligent, pipeline de prétraitement avancé, modèle BERT avec fine-tuning.</li>
-        <li><strong>Projet Open Banking – Système de Scoring de Crédit :</strong> Intégration de données, analyses statistiques, modèle XGBoost suivi via MLflow et explicabilité avec SHAP.</li>
-      </ul>
-      <h3>Stage – Data Scientist / Machine Learning Engineer<br><small>E-nno Switzerland SA, Genève, Suisse (Mars 2022 – Septembre 2022)</small></h3>
-      <ul>
-        <li>Détection d’anomalies énergétiques dans la consommation d’énergie.</li>
-        <li>Pipeline ETL & ingestion cloud avec intégration sur AWS.</li>
-        <li>Déploiement automatisé via Docker, GitLab CI/CD, Airflow, Kubernetes et dashboards (Grafana).</li>
-      </ul>
-      <h3>Stage Data Science – Teamwill Consulting, Paris, France <small>(Juillet 2021 – Septembre 2021)</small></h3>
-      <ul>
-        <li>Développement d'une plateforme IA de CrowdFunding : modèle prédictif, analyse sentimentale sur tweets, chatbot basé sur réseaux de neurones et déploiement d'une application web Flask sur AWS.</li>
-      </ul>
-    </div>
-  </details>
-
-  <!-- Section "Projets & Démonstrations" -->
-  <details class="accordion">
-    <summary>Projets & Démonstrations</summary>
-    <div class="content">
-      <p>Découvrez mes projets sur <a href="https://github.com/radhwen-saidi" target="_blank">GitHub</a> :</p>
-      <ul>
-        <li><a href="https://github.com/radhwen-saidi/fraud-detection-ml" target="_blank">Détection de Fraude avec Machine Learning</a></li>
-        <li><a href="https://github.com/radhwen-saidi/nlp-transaction-classification" target="_blank">Classification NLP des Transactions Bancaires</a></li>
-        <li><a href="https://github.com/radhwen-saidi/credit-scoring-ml" target="_blank">Système de Scoring de Crédit Open Banking</a></li>
-        <li><a href="https://github.com/radhwen-saidi/energy-anomaly-detection" target="_blank">Détection d’Anomalies Énergétiques</a></li>
-      </ul>
-      <h3>Démonstrations Vidéo</h3>
-      <div style="text-align: center;">
-        <iframe width="800" height="450" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen style="border-radius: 8px;"></iframe>
+  <main>
+    <!-- Section À propos -->
+    <section id="apropos">
+      <div class="container">
+        <h2>À propos</h2>
+        <p>
+          Data Scientist passionné ayant obtenu un Mastère Spécialisé en Sciences des Données et plusieurs diplômes d’ingénieur en informatique. Mon expertise couvre le développement de solutions de Machine Learning, la modélisation prédictive et la mise en production d’applications analytiques.
+        </p>
       </div>
+    </section>
+
+    <!-- Section Expérience & Formation -->
+    <section id="experience">
+      <div class="container">
+        <h2>Expérience & Formation</h2>
+        
+        <!-- Expérience Professionnelle -->
+        <article class="experience">
+          <h3><i class="fas fa-briefcase"></i> Expérience Professionnelle</h3>
+          
+          <div class="card">
+            <h4>Data Scientist – ONEY BANQUE, Lille, France</h4>
+            <span class="date">Depuis Octobre 2023</span>
+            <p>
+              <strong>Modélisation IA stratégique :</strong> Développement de solutions ML adaptables à divers cas métiers (détection de fraude, recouvrement, segmentation client, scoring crédit).<br>
+              <strong>Applications Analytiques :</strong> Conception d’outils automatisés pour l’analyse des données et monitoring des modèles.<br>
+              <strong>Amélioration continue :</strong> Optimisation des modèles et mise en œuvre de bonnes pratiques.
+            </p>
+            <p class="keywords"><i class="fas fa-tags"></i> Python, R, SQL, Databricks, MLflow, PySpark, Snowflake</p>
+          </div>
+
+          <div class="card">
+            <h4>Data Scientist – Crédit Agricole Consumer Finance, Lille, France</h4>
+            <span class="date">Octobre 2022 – Septembre 2023</span>
+            <p>
+              <strong>Projet NLP :</strong> Système d'annotation automatisé pour la catégorisation de transactions bancaires.<br>
+              <strong>Projet Open Banking :</strong> Modélisation d’un scoring de crédit via XGBoost et suivi avec MLflow.
+            </p>
+            <p class="keywords"><i class="fas fa-tags"></i> Python, MLflow, SQL, APIS, SHAP, Regex, Hugging Face, Transformers</p>
+          </div>
+
+          <div class="card">
+            <h4>Stage de fin d'études – E-nno Switzerland SA, Genève, Suisse</h4>
+            <span class="date">Mars 2022 – Septembre 2022</span>
+            <p>
+              <strong>Détection d’anomalies énergétiques :</strong> Conception d’un modèle d’identification des dysfonctionnements techniques.<br>
+              <strong>ETL & Automation :</strong> Pipeline ETL sur AWS, packaging Python, déploiement avec Docker, GitLab CI/CD, orchestration avec Airflow et Kubernetes.
+            </p>
+            <p class="keywords"><i class="fas fa-tags"></i> PostgreSQL, InfluxDB, Poetry, Airflow, MLflow, Docker, AWS, GitLab</p>
+          </div>
+
+          <div class="card">
+            <h4>Stage Data Science – Teamwill Consulting, Paris, France</h4>
+            <span class="date">Juillet 2021 – Septembre 2021</span>
+            <p>
+              <strong>Plateforme IA de CrowdFunding :</strong> Modèle de prédiction du succès des projets et chatbot basé sur réseaux de neurones.
+            </p>
+            <p class="keywords"><i class="fas fa-tags"></i> Python, Scikit-Learn, Flask, WebScraping, SQL, AWS, NLP, Keras</p>
+          </div>
+        </article>
+
+        <!-- Formation -->
+        <article class="formation">
+          <h3><i class="fas fa-graduation-cap"></i> Formation</h3>
+          <div class="card">
+            <h4>Mastère Spécialisé Expert En Sciences Des Données</h4>
+            <span class="date">INSA Rouen Normandie, France | 2022 – 2023</span>
+          </div>
+          <div class="card">
+            <h4>Diplôme d'ingénieur, Informatique</h4>
+            <span class="date">École Nationale Supérieure d'Ingénieurs du Mans, France | 2020 – 2022</span>
+          </div>
+          <div class="card">
+            <h4>Diplôme d'ingénieur, Informatique</h4>
+            <span class="date">ESPRIT, Tunisie | 2018 – 2020</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Section Compétences & Contact -->
+    <section id="competences">
+      <div class="container">
+        <h2>Compétences & Outils</h2>
+        <div class="skills">
+          <div class="skill">
+            <h4>Systèmes d’exploitation</h4>
+            <p>Windows, Linux (Ubuntu, CentOS)</p>
+          </div>
+          <div class="skill">
+            <h4>Langages & Frameworks</h4>
+            <p>Python, R, Flask, JAVA, C/C#</p>
+          </div>
+          <div class="skill">
+            <h4>Machine Learning & Deep Learning</h4>
+            <p>Supervisé / Non supervisé, KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression, PCA, K-Means, XGBoost, Tensorflow, Keras, Pytorch, RNN, CNN, NLP</p>
+          </div>
+          <div class="skill">
+            <h4>Big Data, SGBD & Cloud</h4>
+            <p>Hadoop, PySpark, AWS, SQL/PostgreSQL/NoSQL</p>
+          </div>
+          <div class="skill">
+            <h4>MLOps & Automatisation</h4>
+            <p>GitHub/GitLab, MLflow, Docker, Grafana, Airflow, CI/CD, FastAPI, Streamlit</p>
+          </div>
+          <div class="skill">
+            <h4>IA Générative</h4>
+            <p>LLMs, RAG, Vector Embeddings, FAISS, ChromaDB, LangChain, Prompt Engineering</p>
+          </div>
+        </div>
+
+        <h2>Contact</h2>
+        <div class="contact">
+          <p><i class="fas fa-envelope"></i> radhwen.saidi@outlook.com</p>
+          <p><i class="fas fa-phone"></i> +33 783906117</p>
+          <p><i class="fas fa-car"></i> Permis B</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Radhwen Saidi. Tous droits réservés.</p>
     </div>
-  </details>
-
-  <!-- Section "Contact" -->
-  <details class="accordion">
-    <summary>Contact</summary>
-    <div class="content">
-      <ul>
-        <li>📧 <a href="mailto:radhwen.saidi@outlook.com">radhwen.saidi@outlook.com</a></li>
-        <li>🔗 <a href="https://www.linkedin.com/in/radhwen-saidi" target="_blank">LinkedIn</a></li>
-        <li>🐙 <a href="https://github.com/radhwen-saidi" target="_blank">GitHub</a></li>
-      </ul>
-    </div>
-  </details>
-
-  <div style="text-align: center; margin-top: 40px; font-style: italic;">
-    Dernière mise à jour : [Insérez la date]
-  </div>
-
-</div>
+  </footer>
+</body>
+</html>
