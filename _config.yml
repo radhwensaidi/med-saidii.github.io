@@ -1,4 +1,11 @@
-theme: jekyll-theme-slate
+# _config.yml
 title: "Portfolio de Radhwen Saidi"
-description: "CV & Portfolio en Data Science, Machine Learning et IA"
-show_downloads: false
+author: "Radhwen Saidi"
+email: "radhwen.saidi@outlook.com"
+description: "Data Scientist & Machine Learning Engineer – Portfolio professionnel et élégant"
+theme: jekyll-theme-cayman
+
+# Options de build
+markdown: kramdown
+plugins:
+  - jekyll-feed
