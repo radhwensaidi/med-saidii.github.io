@@ -1,156 +1,133 @@
 ---
 layout: default
-title: "Radhwen Saidi - Data Scientist & Machine Learning Engineer"
-description: "CV & Portfolio de Radhwen Saidi en Data Science, Machine Learning et IA"
+title: "Portfolio de Radhwen Saidi"
+description: "CV & Portfolio en Data Science, Machine Learning et IA"
 ---
 
-# Bienvenue sur mon Portfolio
+<!-- En-tête avec logo et titres -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <!-- Remplacez par l'URL de votre logo si disponible -->
+  <img src="/assets/img/logo.png" alt="Logo Radhwen Saidi" style="width: 150px; border-radius: 50%;"><br>
+  <h1 style="font-size: 2.8em; margin-top: 10px;">Radhwen Saidi</h1>
+  <h2 style="color: #666;">Data Scientist | Machine Learning Engineer</h2>
+</div>
 
-Bonjour, je suis **Radhwen Saidi**, Data Scientist et Machine Learning Engineer. Ce site présente mon parcours professionnel, mes compétences, mes projets et des démonstrations interactives. Vous y découvrirez mon CV complet ainsi que mes réalisations en Data Science, IA et Machine Learning.
+<hr style="border-top: 2px solid #ddd; margin: 40px 0;">
 
----
+<!-- Section Profil -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2>👤 Profil</h2>
+  <p>
+    Bonjour, je suis <strong>Radhwen Saidi</strong>, passionné par la Data Science, le Machine Learning et l’Intelligence Artificielle. 
+    Mon objectif est de concevoir des solutions innovantes qui répondent aux défis métiers grâce à l’analyse avancée des données.
+  </p>
+  <ul>
+    <li>📧 <a href="mailto:radhwen.saidi@outlook.com">radhwen.saidi@outlook.com</a></li>
+    <li>📞 07 83 90 61 17</li>
+    <li>🔗 <a href="https://www.linkedin.com/in/radhwen-saidi">LinkedIn</a></li>
+    <li>🐙 <a href="https://github.com/radhwen-saidi">GitHub</a></li>
+  </ul>
+</div>
 
-## Profil
+<!-- Section Compétences Techniques -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2>🛠️ Compétences Techniques</h2>
+  <h3>🔧 Systèmes d’exploitation</h3>
+  <p>Windows, Linux (Ubuntu, CentOS)</p>
+  <h3>💻 Langages & Frameworks</h3>
+  <p>Python, R, Java, C/C#, Flask</p>
+  <h3>🤖 Machine Learning</h3>
+  <p>KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression linéaire, Logistic Regression, PCA, K-Means, XGBoost</p>
+  <h3>🧠 Deep Learning & NLP</h3>
+  <p>TensorFlow, Keras, PyTorch, ANN, RNN, CNN, NLTK, Transformers</p>
+  <h3>🚀 IA Générative</h3>
+  <p>LLMs, RAG Pipelines, Vector Embeddings, Semantic Search, FAISS, ChromaDB, LangChain, Langraph, Prompt Engineering, Fine-tuning (LoRA, PEFT, Quantification)</p>
+  <h3>🗄️ Big Data & Bases de Données</h3>
+  <p>Hadoop, PySpark, Cloud Computing, AWS, SQL/PostgreSQL, NoSQL</p>
+  <h3>⚙️ MLOps & Déploiement</h3>
+  <p>GitHub/GitLab, MLflow, CI/CD, Docker, Grafana, Airflow, CLI, FastAPI, Streamlit</p>
+  <h3>📊 Compétences Transversales</h3>
+  <p>Analyse de données, mathématiques, statistiques, probabilités, méthodes stochastiques, séries temporelles, visualisation, optimisation</p>
+  <h3>🌐 Langues</h3>
+  <p>Français (Courant), Anglais (Professionnel - TOEIC 865), Allemand (A2.2)</p>
+</div>
 
-- **Nom :** Radhwen Saidi  
-- **Email :** [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)  
-- **Téléphone :** 07 83 90 61 17  
-- **LinkedIn :** [linkedin.com/in/radhwen-saidi](https://www.linkedin.com/in/radhwen-saidi)  
-- **GitHub :** [github.com/radhwen-saidi](https://github.com/radhwen-saidi)
+<!-- Section Certifications & Formation -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2>🎓 Certifications & Formation</h2>
+  <h3>Certifications</h3>
+  <ul>
+    <li>Machine Learning Scientist – DataCamp</li>
+    <li>Deep Learning Specialization – Coursera</li>
+  </ul>
+  <h3>Formation</h3>
+  <ul>
+    <li><strong>Mastère Spécialisé Expert en Sciences des Données</strong> – INSA Rouen Normandie, France (2022-2023)</li>
+    <li><strong>Diplôme d'ingénieur, Informatique</strong> – École Nationale Supérieure d'Ingénieurs du Mans, France (2020-2022)<br><em>(Double diplôme via mobilité internationale)</em></li>
+    <li><strong>Diplôme d'ingénieur, Informatique</strong> – École Supérieure d’Ingénierie et de Technologie (ESPRIT), Tunisie (2018-2020)</li>
+  </ul>
+</div>
 
----
+<!-- Section Expérience Professionnelle -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2>💼 Expérience Professionnelle</h2>
+  
+  <h3>Data Scientist – ONEY BANQUE, Lille, France <small>(Depuis Octobre 2023)</small></h3>
+  <ul>
+    <li>Modélisation IA stratégique pour la détection de fraude, recouvrement, segmentation client et scoring crédit.</li>
+    <li>Développement d’applications analytiques : rapports automatisés, monitoring et alertes proactives.</li>
+    <li>Optimisation continue des modèles pour renforcer robustesse, performance et adaptabilité.</li>
+    <li>Mise en place de bonnes pratiques pour aligner les filiales internationales.</li>
+  </ul>
+  
+  <h3>Data Scientist – Crédit Agricole Consumer Finance, Lille, France <small>(Octobre 2022 – Septembre 2023)</small></h3>
+  <ul>
+    <li><strong>Projet NLP – Catégorisation de Transactions Bancaires :</strong> Système d’annotation intelligent, pipeline de prétraitement avancé, modèle BERT avec fine-tuning.</li>
+    <li><strong>Projet Open Banking – Système de Scoring de Crédit :</strong> Intégration de données, analyses statistiques, modèle XGBoost suivi via MLflow et explicabilité avec SHAP.</li>
+  </ul>
+  
+  <h3>Stage de Fin d'Études – Data Scientist / Machine Learning Engineer<br><small>E-nno Switzerland SA, Genève, Suisse (Mars 2022 – Septembre 2022)</small></h3>
+  <ul>
+    <li>Détection d’anomalies énergétiques dans la consommation d’énergie.</li>
+    <li>Pipeline ETL & ingestion cloud avec intégration sur AWS.</li>
+    <li>Packaging et déploiement automatisé via Docker, GitLab CI/CD, Airflow, Kubernetes et dashboards (Grafana).</li>
+  </ul>
+  
+  <h3>Stage Data Science – Teamwill Consulting, Paris, France <small>(Juillet 2021 – Septembre 2021)</small></h3>
+  <ul>
+    <li>Développement d'une plateforme IA de CrowdFunding : modèle prédictif, analyse sentimentale sur tweets, chatbot basé sur réseaux de neurones et déploiement d'une application web Flask sur AWS.</li>
+  </ul>
+</div>
 
-## Compétences Techniques
+<!-- Section Projets & Démonstrations -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h2>🚀 Projets & Démonstrations</h2>
+  <p>Découvrez mes projets sur <a href="https://github.com/radhwen-saidi">GitHub</a> :</p>
+  <ul>
+    <li><a href="https://github.com/radhwen-saidi/fraud-detection-ml">Détection de Fraude avec Machine Learning</a></li>
+    <li><a href="https://github.com/radhwen-saidi/nlp-transaction-classification">Classification NLP des Transactions Bancaires</a></li>
+    <li><a href="https://github.com/radhwen-saidi/credit-scoring-ml">Système de Scoring de Crédit Open Banking</a></li>
+    <li><a href="https://github.com/radhwen-saidi/energy-anomaly-detection">Détection d’Anomalies Énergétiques</a></li>
+  </ul>
+  
+  <h3>📺 Démonstrations Vidéo</h3>
+  <p>Visionnez mes démonstrations interactives :</p>
+  <div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen style="border-radius: 8px;"></iframe>
+  </div>
+</div>
 
-### Systèmes d’exploitation
-- Windows  
-- Linux (Ubuntu, CentOS)
+<!-- Section Contact -->
+<div style="background: #f7f7f7; padding: 20px; border-radius: 8px;">
+  <h2>📬 Contact</h2>
+  <p>Pour toute opportunité ou question, n’hésitez pas à me contacter :</p>
+  <ul>
+    <li>📧 <a href="mailto:radhwen.saidi@outlook.com">radhwen.saidi@outlook.com</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/radhwen-saidi">LinkedIn</a></li>
+    <li>🐙 <a href="https://github.com/radhwen-saidi">GitHub</a></li>
+  </ul>
+</div>
 
-### Langages & Frameworks
-- **Langages :** Python, R, Java, C/C#  
-- **Frameworks :** Flask
-
-### Machine Learning
-- Apprentissage supervisé et non supervisé  
-- Algorithmes : KNN, Decision Tree, Random Forest, SVM, Naïve Bayes, Régression linéaire, Logistic Regression, PCA, K-Means, XGBoost
-
-### Deep Learning & Traitement du Langage Naturel (NLP)
-- Outils : TensorFlow, Keras, PyTorch  
-- Architectures : ANN, RNN, CNN  
-- NLP : NLTK, Transformers
-
-### IA Générative
-- Modèles de langage (LLMs)  
-- Pipelines RAG, Vector Embeddings, Semantic Search  
-- Outils : FAISS, ChromaDB, LangChain, Langraph  
-- Techniques : Prompt Engineering, Fine-tuning (LoRA, PEFT, Quantification)
-
-### Big Data & Bases de Données
-- Technologies : Hadoop, PySpark, Cloud Computing, AWS  
-- SGBD : SQL (PostgreSQL), NoSQL
-
-### MLOps & Déploiement
-- Outils : GitHub/GitLab, MLflow, CI/CD, Docker, Grafana, Airflow, CLI, FastAPI, Streamlit
-
-### Compétences Transversales
-- Analyse de données, mathématiques, statistiques, probabilités, méthodes stochastiques, séries temporelles, visualisation et optimisation
-
-### Langues
-- **Français :** Courant  
-- **Anglais :** Professionnel (TOEIC : 865)  
-- **Allemand :** A2.2
-
----
-
-## Certifications
-
-- **Machine Learning Scientist** – DataCamp  
-- **Deep Learning Specialization** – Coursera
-
----
-
-## Formation
-
-- **Mastère Spécialisé Expert en Sciences des Données**  
-  INSA Rouen Normandie, France – *2022 à 2023*
-
-- **Diplôme d'ingénieur, Informatique**  
-  École Nationale Supérieure d'Ingénieurs du Mans, France – *2020 à 2022*  
-  *(Double diplôme dans le cadre d'une mobilité internationale)*
-
-- **Diplôme d'ingénieur, Informatique**  
-  École Supérieure d’Ingénierie et de Technologie (ESPRIT), Tunisie – *2018 à 2020*
-
----
-
-## Expérience Professionnelle
-
-### Data Scientist – ONEY BANQUE, Lille, France  
-*Depuis Octobre 2023*  
-- **Modélisation IA stratégique :** Développement de solutions ML pour la détection de fraude, le recouvrement, la segmentation client et le scoring crédit, intégrant les dernières avancées technologiques.  
-- **Applications analytiques :** Conception d’outils automatisés pour l’analyse des données, génération de rapports détaillés, monitoring des modèles et mise en place d’alertes proactives.  
-- **Optimisation continue :** Amélioration des modèles existants pour renforcer leur robustesse, performance et adaptabilité.  
-- **Expertise méthodologique :** Mise en œuvre de bonnes pratiques pour l'alignement des filiales internationales.
-
----
-
-### Data Scientist – Crédit Agricole Consumer Finance, Lille, France  
-*Octobre 2022 – Septembre 2023*  
-
-**Projet NLP – Catégorisation de Transactions Bancaires :**  
-- Conception d’un système d’annotation intelligent basé sur des scores majoritaires, des règles métier et une gestion de priorités.  
-- Développement d’un pipeline de prétraitement (nettoyage, standardisation, corrections orthographiques et gestion d’incohérences via Regex).  
-- Mise en place d’un modèle de classification basé sur BERT avec fine-tuning sur corpus spécifique.
-
-**Projet Open Banking – Système de Scoring de Crédit :**  
-- Intégration de données externes (APIs Open Banking) et internes avec optimisation via variables croisées.  
-- Réalisation d’analyses statistiques et création de visualisations stratégiques.  
-- Développement d’un modèle de scoring basé sur XGBoost, suivi via MLflow et explicabilité avec SHAP.
-
----
-
-### Stage de Fin d'Études – Data Scientist / Machine Learning Engineer  
-**E-nno Switzerland SA, Genève, Suisse**  
-*Mars 2022 – Septembre 2022*  
-- **Détection d’anomalies énergétiques :** Conception et développement d’un modèle innovant pour identifier des dysfonctionnements techniques dans la consommation d’énergie.  
-- **Pipeline ETL & Ingestion Cloud :** Extraction, transformation et chargement des données issues de capteurs avec intégration sur AWS.  
-- **Automatisation et Déploiement :** Packaging en solution Python, déploiement automatisé via Docker, GitLab CI/CD, orchestration avec Airflow et Kubernetes, et mise en place de dashboards (Grafana).
-
----
-
-### Stage Data Science  
-**Teamwill Consulting, Paris, France**  
-*Juillet 2021 – Septembre 2021*  
-- **Plateforme IA de CrowdFunding :**  
-  - Conception d’un modèle prédictif pour évaluer la réussite des projets, enrichi par une analyse sentimentale sur des tweets collectés via web scraping.  
-  - Développement d’un chatbot conversationnel basé sur des réseaux de neurones pour une interaction utilisateur dynamique.  
-  - Déploiement d'une application web Flask sur AWS.
-
----
-
-## Projets & Démonstrations
-
-Retrouvez l’ensemble de mes projets sur [GitHub](https://github.com/radhwen-saidi).  
-Quelques projets notables :
-- [Détection de Fraude avec Machine Learning](https://github.com/radhwen-saidi/fraud-detection-ml)
-- [Classification NLP des Transactions Bancaires](https://github.com/radhwen-saidi/nlp-transaction-classification)
-- [Système de Scoring de Crédit Open Banking](https://github.com/radhwen-saidi/credit-scoring-ml)
-- [Détection d’Anomalies Énergétiques](https://github.com/radhwen-saidi/energy-anomaly-detection)
-
-**Démonstrations Vidéo :**  
-Visionnez mes démonstrations interactives ci-dessous :  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>  
-*Remplacez `VIDEO_ID` par l’identifiant de votre vidéo.*
-
----
-
-## Contact
-
-Pour toute opportunité ou question, n’hésitez pas à me contacter :  
-- **Email :** [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)  
-- **LinkedIn :** [linkedin.com/in/radhwen-saidi](https://www.linkedin.com/in/radhwen-saidi)  
-- **GitHub :** [github.com/radhwen-saidi](https://github.com/radhwen-saidi)
-
----
-
-*Dernière mise à jour : [Insérez la date de mise à jour]*
+<div style="text-align: center; margin-top: 40px; font-style: italic;">
+  Dernière mise à jour : [Insérez la date]
+</div>
