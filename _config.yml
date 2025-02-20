@@ -1,5 +1,4 @@
-title: tac dsadii
-logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-cayman  # Remplacez par le thème choisi
+title: "Radhwen Saidi - Data Scientist"
+description: "Mon portfolio de Data Science et Machine Learning"
+theme: jekyll-theme-midnight
+show_downloads: true
