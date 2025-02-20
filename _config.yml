@@ -1,11 +1,4 @@
 # _config.yml
-title: "Portfolio de Radhwen Saidi"
-author: "Radhwen Saidi"
-email: "radhwen.saidi@outlook.com"
-description: "Data Scientist & Machine Learning Engineer – Portfolio professionnel et élégant"
-theme: jekyll-theme-cayman
-
-# Options de build
-markdown: kramdown
-plugins:
-  - jekyll-feed
+theme: minimal
+title: Radhwen Saidi - Data Scientist | Machine Learning Engineer
+description: Portfolio professionnel de Radhwen Saidi, Data Scientist et Machine Learning Engineer
