@@ -1,157 +1,116 @@
-# Radhwen Saidi - Data Scientist | Machine Learning Engineer 💡
+![Photo de Radhwen](radhwen.png)
 
-![Radhwen Saidi](radhwen.png)
+# Radhwen Saidi - Data Scientist | Machine Learning Engineer
 
-Bienvenue sur mon portfolio professionnel !  
-Je suis **Radhwen Saidi**, Data Scientist et Machine Learning Engineer spécialisé dans le développement de solutions innovantes en IA, Machine Learning et MLOps.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhwen-saidi/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-gray?logo=github&logoColor=white)](https://github.com/radhwen-saidi/)
+[![Mail Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white)](mailto:radhwen.saidi@outlook.com)
 
 ---
 
-<!-- Début des Tabs -->
-<style>
-  /* Style pour les onglets */
-  .tabs {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 20px;
-    font-family: Arial, sans-serif;
-  }
-  .tabs label {
-    padding: 10px 20px;
-    background: #eee;
-    cursor: pointer;
-    margin-right: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    font-weight: bold;
-    transition: background 0.3s;
-  }
-  .tabs label:hover {
-    background: #ddd;
-  }
-  .tabs input[type="radio"] {
-    display: none;
-  }
-  .content > div.tab-content {
-    width: 100%;
-    border: 1px solid #eee;
-    padding: 20px;
-    border-top: none;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    background: #fff;
-    display: none;
-    font-size: 0.95em;
-    line-height: 1.5;
-  }
-  /* Affichage de l'onglet actif */
-  #tab-about:checked ~ .content .about,
-  #tab-exp:checked ~ .content .exp,
-  #tab-comp:checked ~ .content .comp,
-  #tab-cert:checked ~ .content .cert,
-  #tab-contact:checked ~ .content .contact {
-    display: block;
-  }
-</style>
+## Table des Matières
+1. [À propos de moi](#à-propos-de-moi)  
+2. [Expériences Professionnelles](#expériences-professionnelles)  
+3. [Compétences Techniques](#compétences-techniques)  
+4. [Certifications](#certifications)  
+5. [Me Contacter](#me-contacter)  
 
-<div class="tabs">
-  <input type="radio" id="tab-about" name="tab-group" checked>
-  <label for="tab-about">À propos</label>
-  
-  <input type="radio" id="tab-exp" name="tab-group">
-  <label for="tab-exp">Expériences</label>
-  
-  <input type="radio" id="tab-comp" name="tab-group">
-  <label for="tab-comp">Compétences</label>
-  
-  <input type="radio" id="tab-cert" name="tab-group">
-  <label for="tab-cert">Certifications</label>
-  
-  <input type="radio" id="tab-contact" name="tab-group">
-  <label for="tab-contact">Contact</label>
-</div>
+---
 
-<div class="content">
-  <!-- Onglet À propos -->
-  <div class="tab-content about">
-    ## 🧑‍💼 À propos de moi
-    - **Diplômes** :
-      - Mastère Spécialisé en Sciences des Données - INSA Rouen Normandie, France *(2022-2023)*
-      - Diplôme d’Ingénieur en Informatique - ENSIM, Le Mans, France *(2020-2022)*
-      - Diplôme d’Ingénieur en Informatique - ESPRIT, Tunisie *(2018-2020)*
-    - **Langues** :
-      - Français : Courant
-      - Anglais : Professionnel *(TOEIC : 865)*
-      - Allemand : A2.2
-  </div>
-  
-  <!-- Onglet Expériences -->
-  <div class="tab-content exp">
-    ## 💼 Expériences Professionnelles
+## À propos de moi
 
-    ### **Data Scientist - ONEY Banque (France)** *(Octobre 2023 - Aujourd'hui)*
-    - **Modélisation IA stratégique** : Solutions ML pour détection de fraude, scoring crédit, segmentation client.
-    - **Applications analytiques** : Automatisation des analyses, monitoring des modèles, alertes et plans d’action.
-    - **Amélioration continue** : Optimisation des modèles pour une robustesse et une performance accrues.
-    - **Tech Stack** : `Python`, `R`, `SQL`, `Databricks`, `MLflow`, `PySpark`, `Snowflake`.
+- 🎓 **Diplômes**  
+  - Mastère Spécialisé en Sciences des Données - INSA Rouen Normandie, France *(2022-2023)*  
+  - Diplôme d’Ingénieur en Informatique - ENSIM, Le Mans, France *(2020-2022)*  
+  - Diplôme d’Ingénieur en Informatique - ESPRIT, Tunisie *(2018-2020)*
+- ✨ **Langues**  
+  - Français : Courant  
+  - Anglais : Professionnel *(TOEIC : 865)*  
+  - Allemand : A2.2  
+- 📧 **Contact** : [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)
 
-    ---
+---
 
-    ### **Data Scientist - Crédit Agricole Consumer Finance (France)** *(Octobre 2022 - Septembre 2023)*
-    - **Projet NLP** :
-      - Classification de transactions bancaires avec fine-tuning de modèles **BERT**.
-      - Prétraitements avancés des données avec **Regex**.
-    - **Projet Open Banking** :
-      - Modèle de scoring crédit avec **XGBoost**, traçabilité via **MLflow**, interprétabilité avec **SHAP**.
-    - **Tech Stack** : `Python`, `Transformers`, `TensorFlow`, `MLflow`, `SQL`.
+## Expériences Professionnelles
 
-    ---
+<details>
+<summary><strong>Data Scientist - ONEY Banque (France)</strong> <em>(Octobre 2023 - Aujourd'hui)</em></summary>
+<br />
 
-    ### **Stage Data Scientist - E-nno Switzerland SA (Genève, Suisse)** *(Mars 2022 - Septembre 2022)*
-    - Détection d’anomalies énergétiques avec ingestion cloud sur **AWS**.
-    - Déploiement scalable avec **Docker**, **GitLab CI/CD**, et orchestration **Kubernetes**.
-    - Monitoring via **Grafana** et gestion des workflows avec **Airflow**.
-    - **Tech Stack** : `Docker`, `AWS`, `PostgreSQL`, `Grafana`, `CI/CD`.
+- **Modélisation IA stratégique** : Solutions ML pour la détection de fraude, le scoring crédit, la segmentation client.  
+- **Applications analytiques** : Automatisation des analyses, monitoring des modèles, alertes et plans d’action.  
+- **Amélioration continue** : Optimisation des modèles pour plus de robustesse et de performance.  
+- **Tech Stack** : `Python`, `R`, `SQL`, `Databricks`, `MLflow`, `PySpark`, `Snowflake`.
 
-    ---
+</details>
 
-    ### **Stage Data Scientist - Teamwill Consulting (Paris, France)** *(Juillet 2021 - Septembre 2021)*
-    - Plateforme IA pour prédire le succès de projets de crowdfunding avec analyse sentimentale.
-    - Développement d’un chatbot conversationnel basé sur **Keras**.
-    - Déploiement cloud sur **AWS** avec **Flask**.
-    - **Tech Stack** : `Python`, `Flask`, `AWS`, `NLP`.
-  </div>
-  
-  <!-- Onglet Compétences -->
-  <div class="tab-content comp">
-    ## ⚙️ Compétences Techniques
+<details>
+<summary><strong>Data Scientist - Crédit Agricole Consumer Finance (France)</strong> <em>(Octobre 2022 - Septembre 2023)</em></summary>
+<br />
 
-    - **Langages et Frameworks** : Python, R, Flask, Java, C#.
-    - **Machine Learning et IA** : Scikit-learn, PyTorch, TensorFlow, NLP, LLMs (LangChain, LangGraph, RAG, Fine-tuning).
-    - **Big Data et Cloud** : Spark/PySpark, SQL/NoSQL, AWS (EC2, S3, ECR, SageMaker), Heroku, Snowflake, Databricks.
-    - **MLOps et Déploiement** : Docker, Airflow, MLflow, CI/CD, GitHub/GitLab, Streamlit, FastAPI, Poetry, Grafana.
-    - **Visualisation** : Power BI, Plotly, Seaborn, Matplotlib.
-  </div>
-  
-  <!-- Onglet Certifications -->
-  <div class="tab-content cert">
-    ## 📚 Certifications
-    - **Machine Learning Scientist** - DataCamp
-    - **Deep Learning Specialization** - Coursera
-    - **TOEIC 865** - Anglais Professionnel
-  </div>
-  
-  <!-- Onglet Contact -->
-  <div class="tab-content contact">
-    ## 🌐 Me Contacter
+- **Projet NLP** :  
+  - Classification de transactions bancaires avec fine-tuning de modèles **BERT**.  
+  - Prétraitements avancés de texte avec **Regex**.  
+- **Projet Open Banking** :  
+  - Modèle de scoring crédit avec **XGBoost**, traçabilité via **MLflow**, interprétabilité via **SHAP**.  
+- **Tech Stack** : `Python`, `Transformers`, `TensorFlow`, `MLflow`, `SQL`.
 
-    - **Email** : [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)
-    - **Téléphone** : +33 7 83 90 61 17
-    - **LinkedIn** : [Mon Profil LinkedIn](https://www.linkedin.com/in/radhwen-saidi/)
-    - **GitHub** : [Mon GitHub](https://github.com/radhwen-saidi)
-  </div>
-</div>
-<!-- Fin des Tabs -->
+</details>
+
+<details>
+<summary><strong>Stage Data Scientist - E-nno Switzerland SA (Genève, Suisse)</strong> <em>(Mars 2022 - Septembre 2022)</em></summary>
+<br />
+
+- Détection d’anomalies énergétiques avec ingestion cloud sur **AWS**.  
+- Déploiement scalable avec **Docker**, **GitLab CI/CD**, et orchestration **Kubernetes**.  
+- Monitoring via **Grafana** et gestion des workflows avec **Airflow**.  
+- **Tech Stack** : `Docker`, `AWS`, `PostgreSQL`, `Grafana`, `CI/CD`.
+
+</details>
+
+<details>
+<summary><strong>Stage Data Scientist - Teamwill Consulting (Paris, France)</strong> <em>(Juillet 2021 - Septembre 2021)</em></summary>
+<br />
+
+- Plateforme IA pour prédire le succès de projets de crowdfunding avec analyse sentimentale.  
+- Développement d’un chatbot conversationnel basé sur **Keras**.  
+- Déploiement cloud sur **AWS** avec **Flask**.  
+- **Tech Stack** : `Python`, `Flask`, `AWS`, `NLP`.
+
+</details>
+
+---
+
+## Compétences Techniques
+
+Voici un aperçu de mes principales expertises :  
+
+- **Langages et Frameworks** :  
+  Python, R, Flask, Java, C#  
+- **Machine Learning & IA** :  
+  Scikit-learn, PyTorch, TensorFlow, NLP, LLMs (LangChain, LangGraph, RAG, Fine-tuning)  
+- **Big Data & Cloud** :  
+  Spark/PySpark, SQL/NoSQL, AWS (EC2, S3, ECR, SageMaker), Heroku, Snowflake, Databricks  
+- **MLOps & Déploiement** :  
+  Docker, Airflow, MLflow, CI/CD, GitHub/GitLab, Streamlit, FastAPI, Poetry, Grafana  
+- **Visualisation** :  
+  Power BI, Plotly, Seaborn, Matplotlib  
+
+---
+
+## Certifications
+- **Machine Learning Scientist** - DataCamp  
+- **Deep Learning Specialization** - Coursera  
+- **TOEIC 865** - Anglais Professionnel  
+
+---
+
+## Me Contacter
+
+- **Email** : [radhwen.saidi@outlook.com](mailto:radhwen.saidi@outlook.com)  
+- **Téléphone** : +33 7 83 90 61 17  
+- **LinkedIn** : [Mon Profil LinkedIn](https://www.linkedin.com/in/radhwen-saidi/)  
+- **GitHub** : [Mon GitHub](https://github.com/radhwen-saidi)  
 
 ---
 
